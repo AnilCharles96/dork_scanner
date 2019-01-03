@@ -1,4 +1,4 @@
-# dork scanner
+# Dork scanner
 dork scanner grabs urls based on google dorks
 
 # How to run
