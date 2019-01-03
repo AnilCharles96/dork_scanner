@@ -2,9 +2,11 @@
 dork scanner grabs urls based on google dorks
 
 # How to run
-dork scanner folder contains the visual studio file, compile and run the program
+dork scanner folder contains the visual studio file, compile and run the program..ignore the errors
 
 input folder contains google dorks and ssl proxy which should go as inputs to the program
+
+get fresh proxies from http://www.sslproxies24.top/
 
 # live action 
 
