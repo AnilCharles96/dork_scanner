@@ -1,0 +1,11 @@
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner_gUI.csprojResolveAssemblyReference.cache
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner_gUI.Form1.resources
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner_gUI.csproj.GenerateResource.Cache
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner_gUI.csproj.CoreCompileInputs.cache
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\bin\Debug\DorkScanner.exe.config
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\bin\Debug\DorkScanner.exe
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\bin\Debug\DorkScanner.pdb
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner.Properties.Resources.resources
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner.exe
+c:\users\anil\source\repos\DorkScanner_gUI\DorkScanner_gUI\obj\Debug\DorkScanner.pdb
